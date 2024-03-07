@@ -2,7 +2,8 @@
 public class thongbao {
 
 	public static void main(String[] args) {
-		System.out.print("Hello");
+		for (int i = 0; i < 2; i++)
+			System.out.print("Hello");
 	}
 
 }
